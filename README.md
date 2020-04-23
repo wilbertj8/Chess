@@ -1,2 +1,2 @@
 # Chess
-Original chess game from freshman year
+Original Chess game from freshman year (2018)
