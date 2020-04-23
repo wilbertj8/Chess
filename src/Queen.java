@@ -28,7 +28,7 @@ public class Queen extends Piece
    @Override
    public Image getImage()
    {
-      return (new ImageIcon(this.getClass().getResource(this.getColor() + this.getClass().getName() + ".png"))).getImage();
+	  return (new ImageIcon("images/" + this.getColor() + this.getClass().getName() + ".png")).getImage();
    }
 
    @Override
